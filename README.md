@@ -96,4 +96,3 @@ cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
 This project is intended for educational purposes and self-learning.
 ```
 
-You can now just copy and paste this README into your GitHub project. Let me know if you need further customization or additional sections!
