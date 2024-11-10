@@ -71,7 +71,7 @@ cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ravii-saini/Movie_Recommendation_System.git>
    ```
 
 2. **Install Required Packages**:
@@ -95,11 +95,5 @@ cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
 ## License
 This project is intended for educational purposes and self-learning.
 ```
-
-### Changes made:
-1. **Project Overview**: A brief explanation of recommendation systems and their importance, especially in platforms like Netflix and YouTube.
-2. **Key Steps**: Detailed explanation of the three types of recommendation techniques used.
-3. **Model Training and Evaluation**: The specific models used and the results (RMSE) mentioned.
-4. **Installation and Usage**: Provides commands for setting up the environment and running the notebook.
 
 You can now just copy and paste this README into your GitHub project. Let me know if you need further customization or additional sections!
